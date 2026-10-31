@@ -1,0 +1,10 @@
+{
+    "Name": "Kindred Crows",
+    "Author": "Huskyn1nja",
+    "Version": "1.0.0",
+    "Description": "Don't fight the crows. Make them your friends. They give you shiny things.",
+    "UniqueID": "Huskyn1nja.KindredCrows",
+    "EntryDll": "KindredCrows.dll",
+    "UpdateKeys": [ "Nexus:43484" ],
+    "Dependencies": []
+}

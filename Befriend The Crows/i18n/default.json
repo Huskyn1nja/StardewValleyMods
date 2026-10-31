@@ -1,0 +1,8 @@
+{
+  "feeder.name": "Crow Feeder",
+  "feeder.description": "A small reinforced box. Use this to exchange presents with the local crows.",
+  "command.setfriendship": "Sets crow friendship points (0-2500). Usage: crow_setfriendship <amount>",
+  "command.getfriendship": "Gets current crow friendship points.",
+  "command.success": "Crow friendship set to {{val}} ({{hearts}} hearts).",
+  "command.current": "Current crow friendship is {{p}} ({{hearts}} hearts)."
+}

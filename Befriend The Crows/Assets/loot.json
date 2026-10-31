@@ -1,0 +1,7 @@
+[
+  { "ItemId": "(O)168", "MinPoints": 1500 },
+  { "ItemId": "SEASONAL_SEEDS", "MinPoints": 1750 },
+  { "ItemId": "(O)72", "MinPoints": 2000 },
+  { "ItemId": "(O)74", "MinPoints": 2250 },
+  { "ItemId": "VANILLA_TRINKET", "MinPoints": 2500 }
+]
