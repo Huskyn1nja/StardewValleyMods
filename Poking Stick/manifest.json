@@ -1,0 +1,10 @@
+{
+    "Name": "Poking Stick",
+    "Author": "Huskyn1nja",
+    "Version": "1.0.0",
+    "Description": "Poke a villager with a stick and they'll hurry along to wherever they're headed next.",
+    "UniqueID": "Huskyn1nja.PokingStick",
+    "EntryDll": "PokingStick.dll",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": []
+}
