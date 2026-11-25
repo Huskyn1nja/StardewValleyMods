@@ -1,0 +1,16 @@
+{
+  "Name": "Star Signs",
+  "Author": "Huskyn1nja",
+  "Version": "1.0.0",
+  "Description": "Adds a cute, simple Astrology system to your stardew save",
+  "UniqueID": "Huskyn1nja.StarSigns",
+  "EntryDll": "StarSigns.dll",
+  "MinimumApiVersion": "4.0.0",
+  "UpdateKeys": ["Nexus:56035"],
+  "Dependencies": [
+    {
+      "UniqueID": "Pathoschild.ContentPatcher",
+      "IsRequired": false
+    }
+  ]
+}
